@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>first on BitByBit</title>
-    <link>http://example.org/tags/first/</link>
+    <link>https://ghdocs.github.io/ghpage/tags/first/</link>
     <description>Recent content in first on BitByBit</description>
-    <image>
-      <title>BitByBit</title>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 17:18:58 -0700</lastBuildDate><atom:link href="http://example.org/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2023 17:18:58 -0700</lastBuildDate><atom:link href="https://ghdocs.github.io/ghpage/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://ghdocs.github.io/ghpage/posts/my-first-post/</link>
       <pubDate>Sun, 02 Jul 2023 17:18:58 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Here&amp;#39;s my second page post</description>
+      <guid>https://ghdocs.github.io/ghpage/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+List of things to do First task of doing this Second task Third task completed before first two Visit the Hugo website!</description>
     </item>
     
   </channel>

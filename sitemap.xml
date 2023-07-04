@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ghdocs.github.io/ghpage/</loc>
     <lastmod>2023-07-02T17:18:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/first/</loc>
+    <loc>https://ghdocs.github.io/ghpage/tags/first/</loc>
     <lastmod>2023-07-02T17:18:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://ghdocs.github.io/ghpage/posts/my-first-post/</loc>
     <lastmod>2023-07-02T17:18:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://ghdocs.github.io/ghpage/posts/</loc>
     <lastmod>2023-07-02T17:18:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ghdocs.github.io/ghpage/tags/</loc>
     <lastmod>2023-07-02T17:18:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/second-page/</loc>
+    <loc>https://ghdocs.github.io/ghpage/posts/second-page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/second/</loc>
+    <loc>https://ghdocs.github.io/ghpage/tags/second/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://ghdocs.github.io/ghpage/archives/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ghdocs.github.io/ghpage/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://ghdocs.github.io/ghpage/search/</loc>
   </url>
 </urlset>
