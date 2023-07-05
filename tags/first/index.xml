@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>first on BitByBit</title>
-    <link>https://ghdocs.github.io/ghpage/tags/first/</link>
+    <link>https://ghdocs.github.io/tags/first/</link>
     <description>Recent content in first on BitByBit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 17:18:58 -0700</lastBuildDate><atom:link href="https://ghdocs.github.io/ghpage/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jul 2023 17:18:58 -0700</lastBuildDate><atom:link href="https://ghdocs.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://ghdocs.github.io/ghpage/posts/my-first-post/</link>
+      <link>https://ghdocs.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 02 Jul 2023 17:18:58 -0700</pubDate>
       
-      <guid>https://ghdocs.github.io/ghpage/posts/my-first-post/</guid>
+      <guid>https://ghdocs.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 List of things to do First task of doing this Second task Third task completed before first two Visit the Hugo website!</description>
     </item>

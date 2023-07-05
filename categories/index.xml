@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BitByBit</title>
-    <link>https://ghdocs.github.io/ghpage/categories/</link>
+    <link>https://ghdocs.github.io/categories/</link>
     <description>Recent content in Categories on BitByBit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ghdocs.github.io/ghpage/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ghdocs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
